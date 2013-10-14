@@ -1,4 +1,3 @@
-
 ==================================
 CIS 581, Project 2: Image Morphing
 ==================================
@@ -73,16 +72,17 @@ Here are the links for the videos of face morphing using Triangulation and Thin-
 
 1.Triangulation Method
 
-[![ScreenShot](https://raw.github.com/GabriellaQiong/Project2-Pathtracer/master/10021534.PNG)](http://www.youtube.com/watch?v=W3h_t3rLg0Q&feature=youtu.be)
+[![ScreenShot](https://raw.github.com/GabriellaQiong/CIS581-Project2-Image-Morphing/master/IMG_1957.PNG)](http://www.youtube.com/watch?v=W3h_t3rLg0Q&feature=youtu.be)
 
 2.Thin-Plate-Sline Method
 
-[![ScreenShot](https://raw.github.com/GabriellaQiong/Project2-Pathtracer/master/10021534.PNG)]()
+[![ScreenShot](https://raw.github.com/GabriellaQiong/CIS581-Project2-Image-Morphing/master/IMG_1958.PNG)](http://www.youtube.com/watch?v=QlUVgkThGH4)
 
 ---
 THIRD PARTY CODE
 ---
-Here the mytsearch.cpp is from David R. Martin, Boston College which will save a lot of time to do the triangular index search. The original code is attacked on this link:
+Here the mytsearch.cpp is from David R. Martin, Boston College which will save a lot of time to do the triangular index 
+search. The original code is attached on this link:
 
 http://graphics.cs.cmu.edu/courses/15-463/2011_fall/hw/proj3/mytsearch_mod.c
 
